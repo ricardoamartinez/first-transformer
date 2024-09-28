@@ -1,0 +1,5 @@
+streamlit==1.24.1
+torch==2.0.1
+torchvision==0.15.2
+plotly==5.14.1
+Pillow==9.5.0
